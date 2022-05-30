@@ -1,0 +1,62 @@
+.mainbody{
+  padding-left: 50px;
+}
+
+table{
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+}
+
+td{
+  text-align: center;
+  padding: 10px;
+}
+
+#Japan{
+  text-align: center;
+  text-decoration: underline;
+}
+
+#china{
+  text-decoration: underline;
+}
+
+iframe{
+  margin-left: 10px
+}
+
+#photo{
+  height: 300px;
+  width: 600px;
+  font-size: 18px;
+}
+
+hr{
+  width: 95%;
+}
+
+nav ul li a {
+  text-decoration: none;
+  background-color: grey;
+}
+
+nav div ul li a {
+  margin: 3px;
+  margin-left: 40px;
+  display: block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: black;
+  border-radius: 100px;
+  text-align-last: center;
+}
+
+nav ul li:hover a {
+  color: purple;
+  background-color: white;
+}
+
+nav ul li a.current{
+  background-color: lightgrey;
+}

@@ -1,0 +1,17 @@
+.main{
+  background-color: white;
+  color: black;
+}
+
+#button{
+  padding: 5px 10px 6px;
+  border-radius: 5px;
+  border: 1px;
+  cursor: pointer;
+  color: white;
+  background-color: purple;
+}
+#button:hover{
+  color: black;
+  background-color: grey;
+}
